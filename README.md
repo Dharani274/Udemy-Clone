@@ -1,5 +1,3 @@
-Here’s a professional and concise README description for your Udemy website page project:
-
 ---
 
 # Udemy Website Clone 🌐
